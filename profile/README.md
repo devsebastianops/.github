@@ -1,6 +1,6 @@
 
 
-![github header image](./github-header-image.png)
+![github header image](/profile/github-header-image.png)
 
 
 **Hi! I'm Sebastian! :wave:**
