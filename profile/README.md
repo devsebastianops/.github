@@ -13,9 +13,7 @@ I use my skills to increase the developer experience and to help teams deliver s
 ## :computer: Technologies
 
 ### Programming and Scripting Languages
-:white_check_mark: `PHP` `JavaScript` `Bash` 
-
-:hourglass_flowing_sand: `Go`
+:white_check_mark: `PHP` `JavaScript` `Bash` `Go`
 
 ### Tools and Software
 
