@@ -35,7 +35,7 @@ I use my skills to increase the developer experience and to help teams deliver s
 
 ## :incoming_envelope: Contact
 
-:envelope: [hi@devsebastianops.de](mailto:hi@devsebastianops.de)
+:envelope: [hi@devsebastianops.com](mailto:hi@devsebastianops.com)
 
 
 
