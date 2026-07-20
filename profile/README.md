@@ -1,37 +1,29 @@
+<div align="center">
 
-
-![github header image](/profile/github-header-image.png)
-
-
-**Hi! I'm Sebastian! :wave:**
-
-
-I am a DevOps Engineer with a passion for automation and cloud technologies.
+# :wave: Welcome to DevSebastianOps
 
 I use my skills to increase the developer experience and to help teams deliver software faster and more reliably; I love to solve problems and automate processes to make life easier.
 
-## :computer: Technologies
+My two main credos: **Automate everything** and **Standardize what everyone needs**
 
-### Programming and Scripting Languages
-:white_check_mark: `PHP` `JavaScript` `Bash` `Go`
+---
 
-### Tools and Software
+[:globe_with_meridians: Blog](https://devsebastianops.com) •
+[:octocat: Watt TF](https://github.com/devsebastianops/watt-tf)
 
-**Containers and Orchestration**
+</div>
 
-:white_check_mark: `Docker` `Kubernetes` `Helm` 
 
-**CI/CD**
 
-:white_check_mark: `GitHub Actions` 
+## :rocket: Recent Projects
 
-**_so and so_ as Code**
+### :package: Watt TF
 
-:white_check_mark: `Terraform` `Ansible` 
+Watt TF is a declarative blueprint engine that compiles raw data from JSON or YAML files into clean Terraform JSON. Because writing complex nested loops in HCL shouldn't make you question your career choices.
 
-**Others**
+[GitHub](https://github.com/devsebastianops/watt-tf)
 
-:white_check_mark: `Git` `Linux` 
+[Documentation](https://watt-tf.dev)
 
 ## :incoming_envelope: Contact
 
