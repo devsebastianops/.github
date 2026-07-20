@@ -23,6 +23,3 @@ Watt TF is a declarative blueprint engine that compiles raw data from JSON or YA
 ## :incoming_envelope: Contact
 
 :envelope: [hi@devsebastianops.com](mailto:hi@devsebastianops.com)
-
-
-
