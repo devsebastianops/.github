@@ -1,18 +1,13 @@
-<div align="center">
-
 # :wave: Welcome to DevSebastianOps
 
 I use my skills to increase the developer experience and to help teams deliver software faster and more reliably; I love to solve problems and automate processes to make life easier.
 
 My two main credos: **Automate everything** and **Standardize what everyone needs**
 
----
+## :link: Quick Links
+[:globe_with_meridians: Blog](https://devsebastianops.com)
 
-[:globe_with_meridians: Blog](https://devsebastianops.com) •
 [:octocat: Watt TF](https://github.com/devsebastianops/watt-tf)
-
-</div>
-
 
 
 ## :rocket: Recent Projects
